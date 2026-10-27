@@ -1,4 +1,4 @@
 tea 25
-coffee 30 
+coffee 35 
 Juice 40
 sandwich 50
